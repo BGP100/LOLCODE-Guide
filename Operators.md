@@ -1,3 +1,6 @@
+<a href="Types.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="InputAndOutput.md">Next &gt;</a>
 Operators play an important role to perform various operations on variables. This chapter brings you various operators in LOLCODE and their usage.
 <hr>
 Mathematical operators depend on a prefix notation i.e. the notation that comes before the operand. When all the operators have known number of arguments or operands, then no grouping markers are necessary. In cases where operators don’t have fixed arguments or operands, the operation is closed with MKAY.
