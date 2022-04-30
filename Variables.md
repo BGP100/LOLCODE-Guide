@@ -1,3 +1,7 @@
+<a href="Syntax.md">&lt; Previous</a>
+&nbsp;&nbsp;&nbsp;
+<a href="Variables.md">Next &gt;</a>
+<hr>
 As in any other programming language, LOLCODE allows you to define variables of various types. This chapter will make you familiar with working with variables in LOLCODE.
 <h1>Scope of Variables</h1>
 The scope of a variable is local to the function or to the program block, i.e. a variable defined in one scope cannot be called in any other scope of the same program. Variables are accessible only after they are declared.
