@@ -1,6 +1,6 @@
 <a href="Exception-Handling.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="Resources/Main.md">Next &gt;</a>
+<a href="/Resources/Main.md">Next &gt;</a>
 <hr>
 The previous chapters explained you the programming in LOLCODE. In this chapter, you will learn some examples that lets you code at an advanced level in LOLCODE.
 <h1>Program to Calculate the Power of a Number</h1>
