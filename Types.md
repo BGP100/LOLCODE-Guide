@@ -1,4 +1,4 @@
-<a href="Syntax.md">&lt; Previous</a>
+<a href="Variables.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="Operators.md">Next &gt;</a>
 <hr>
