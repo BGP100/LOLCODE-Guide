@@ -1,6 +1,6 @@
 <a href="Syntax.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="Variables.md">Next &gt;</a>
+<a href="Types.md">Next &gt;</a>
 <hr>
 As in any other programming language, LOLCODE allows you to define variables of various types. This chapter will make you familiar with working with variables in LOLCODE.
 <h1>Scope of Variables</h1>
