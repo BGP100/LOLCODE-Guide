@@ -38,7 +38,6 @@ All of the above statements can be written in the same line separated by commas 
  OIC
 </pre>
 While using the if-then statements, an optional MEBBE <b>&lt;any expression&gt;</b> may be used between the YA RLY and NO WAI blocks.
-
 If the <b>&lt;any expression&gt;</b> following MEBBE is True (WIN), then that block is executed. Otherwise, if that expression is false, the block is skipped until the next MEBBE, NO WAI, or OIC statements.
 <pre>
 &lt;any expression&gt;
