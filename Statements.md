@@ -3,12 +3,10 @@
 <a href="Loops.md">Next &gt;</a>
 <hr>
 LOLCODE allows you to control the flow of program through various statements. This chapter explains different types of statements available in LOLCODE.
-
-Expression Statements
+<h1>Expression Statements</h1>
 An expression without any assignment, i.e. simply calling a mathematical operation or any function, is a legal statement in LOLCODE. Once the expression is evaluated, its final value is placed in the temporary variable IT. The value of IT remains in the local scope, and exists until the next time it is replaced with an expression.
-
-Assignment Statements
-Assignment statements are used to assign the output of any expression to a given variable. They are generally of the form −
+<h1>Assignment Statements</h1>
+Assignment statements are used to assign the output of any expression to a given variable. They are generally of the form:
 <pre>&lt;any_variable&gt; &lt;assignment operator&gt; &lt;any expression&gt;</pre>
 Please note that, you can use a variable in the expression, even before it is being assigned.
 <h1>Conditional Statements</h1>
@@ -32,7 +30,7 @@ O RLY?
       &lt;code to execute in this block&gt;
 OIC
 </pre>
-All of the above statements can be written in the same line separated by commas like −
+All of the above statements can be written in the same line separated by commas like:
 <pre>
  BOTH SAEM NAMES AN "Name", O RLY?
    YA RLY, VISIBLE "My name is ABCD"
@@ -92,6 +90,7 @@ NAME, WTF?
 OIC
 </pre>
 The output results of the above code will be:
-<br>
+<pre>
 "E":
-<pre>EFGH</pre>
+EFGH
+</pre>
