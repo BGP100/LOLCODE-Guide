@@ -1,4 +1,4 @@
-<a href="https://bledy-guides.repl.co">&lt; Previous</a>
+<a href="https://bledy-guides.repl.co/#lolcode">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="Introduction.md">Next &gt;</a>
 <hr>
