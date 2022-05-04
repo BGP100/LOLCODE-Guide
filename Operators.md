@@ -15,13 +15,13 @@ Any expression containing an operator with infinite number of arguments can be e
 <h1>Math</h1>
 Following are the basic mathematical operations in LOLCODE:
 <pre>
-SUM OF &ly;a&gt; AN &ly;b&gt;      BTW This is a plus + operator
-DIFF OF &ly;a&gt; AN &ly;n&gt;     BTW This is a minus - operator
-PRODUKT OF &ly;a&gt; AN &ly;n&gt;  BTW This is a multiply operator *
-QUOSHUNT OF &ly;a&gt; AN &ly;n&gt; BTW This is a divide operator
-MOD OF &ly;a&gt; AN &ly;n&gt;      BTW This is a modulo operator
-BIGGR OF &ly;a&gt; AN &ly;n&gt;    BTW This is a max operator
-SMALLR OF &ly;a&gt; AN &ly;n&gt;   BTW This is a min operator
+SUM OF &lt;a&gt; AN &lt;b&gt;      BTW This is a plus + operator
+DIFF OF &lt;a&gt; AN &lt;n&gt;     BTW This is a minus - operator
+PRODUKT OF &lt;a&gt; AN &lt;n&gt;  BTW This is a multiply operator *
+QUOSHUNT OF &lt;a&gt; AN &lt;n&gt; BTW This is a divide operator
+MOD OF &lt;a&gt; AN &lt;n&gt;      BTW This is a modulo operator
+BIGGR OF &lt;a&gt; AN &lt;n&gt;    BTW This is a max operator
+SMALLR OF &lt;a&gt; AN &lt;n&gt;   BTW This is a min operator
 </pre>
 <b>&ly;a&gt;</b> and <b>&ly;b&gt;</b> can each be unique expressions in the above, so mathematical operators can be nested and grouped indefinitely.
 <br>
