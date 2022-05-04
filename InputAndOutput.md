@@ -9,7 +9,7 @@ You can use the keyword VISIBLE to print something in LOLCODE. VISIBLE is a func
 The VISIBLE function ends or terminates by a delimiter, which is either a line end or a comma.
 <br>
 The output is automatically terminated by the compiler with a carriage return. If the final token is terminated with an exclamation symbol (!), then the carriage returned is over-ridden by this symbol.
-<pre>VISIBLE &lt;any_expression&gt; [&lt;any_expression&gt; ...][!]
+<pre>VISIBLE &lt;any_expression&gt; [&lt;any_expression&gt; ...][!]</pre>
 Please note that in LOLCODE, currently there is no defined standard for printing some data to a file.
 <br>
 To take some input from the user, the keyword used is GIMMEH. It is a function which can take any number of variables as input. It takes YARN as the input and stores the value in any given variable.
@@ -22,7 +22,7 @@ HAI 1.2
    VISIBLE VAR
 KTHXBYE
 </pre>
-When this code is run, it will ask you to enter a number and then prints the number back in the next line automatically. When you run this code, it will print the following output −
+When this code is run, it will ask you to enter a number and then prints the number back in the next line automatically. When you run this code, it will print the following output:
 <pre>
 sh-
 4.3$ lci main.lo
