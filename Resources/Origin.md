@@ -1,6 +1,6 @@
 <a href="/Resources/Recap.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://bledy-guides.repl.co">Next &gt;</a>
+<a href="https://bledy-guides.repl.co/#lolcode">Next &gt;</a>
 <hr>
 LOLCODE is an esoteric programming language inspired by lolspeak, the language expressed in examples of the lolcat Internet meme. The language was created in 2007 by Adam Lindsay, researcher at the Computing Department of Lancaster University.
 <br>
