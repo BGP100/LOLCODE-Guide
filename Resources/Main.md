@@ -1,4 +1,4 @@
-<a href="Examples">&lt; Previous</a>
+<a href="/Examples.md">&lt; Previous</a>
 &nbsp;&nbsp;&nbsp;
 <a href="/Resources/Recap.md">Next &gt;</a>
 <hr>
