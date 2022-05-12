@@ -13,6 +13,6 @@ HAI 1.2
 I HAS A NAME
 VISIBLE "NAME::"!
 GIMMEH NAME
-VISIBLE "tutorialsPoint " NAME "!"
+VISIBLE "BledyGuides " NAME "!"
 KTHXBYE
 </pre>
