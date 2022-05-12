@@ -11,92 +11,92 @@ The LOLCODE constructs are slang words. The following table shows the alphabetic
   </tr>
   <tr>
     <td>1</td>
-    <td>BTW</td>
+    <td><code>BTW</code></td>
     <td>It starts a single line comment.</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>DOWN &lt;variable&gt;!!&lt;times&gt;</td>
+    <td><code>DOWN &lt;variable&gt;!!&lt;times&gt;</code></td>
     <td>This corresponds to variable = variable - times. Note that "times" is a wut-only language extension.</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>GIMMEH &lt;variable&gt;</td>
+    <td><code>GIMMEH &lt;variable&gt;</code></td>
     <td>This represents the input statement.</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>GTFO</td>
+    <td><code>GTFO</code></td>
     <td>This is similar to break in other languages and provides a way to break out of a loop.</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>HAI</td>
+    <td><code>HAI</code></td>
     <td>This corresponds to <b>main()</b> function in other languages. It is the program entry point in LOLCODE.</td>
   </tr>
   <tr>
     <td>6</td>
-    <td>HEREZ &lt;label&gt;</td>
+    <td><code>HEREZ &lt;label&gt;</code></td>
     <td>This is another wut-only language extension and declares a label for use with SHOO</td>
   </tr>
   <tr>
     <td>7</td>
-    <td>I HAS A &lt;type&gt; &lt;variable&gt;</td>
+    <td><code>I HAS A &lt;type&gt; &lt;variable&gt;</code></td>
     <td>This declares a variable of said type.<br>There are three built-in types in LOLCODE:<ul><li>NUMBAH (int)</li><li>DECINUMBAH (double)</li><li>WORDZ (std::string)</li></ul>Note that types are a wut-only language extension.</td>
   </tr>
   <tr>
     <td>8</td>
-    <td>IM IN YR LOOP</td>
+    <td><code>IM IN YR LOOP</code></td>
     <td>This starts an infinite loop. The only way to exit the loop is using GTFO. Corresponds to <b>for(;;)</b> in other languages</td>
   </tr>
   <tr>
     <td>9</td>
-    <td>IZ &lt;expr1&gt; &lt;operator&gt; &lt;expr2&gt;?: Conditional structure</td>
+    <td><code>IZ &lt;expr1&gt; &lt;operator&gt; &lt;expr2&gt;?: Conditional structure</code></td>
     <td>This is similar to if operator in other languages. Operator is one of: BIGGER THAN, SMALLER THAN, SAEM AS. Note that the ? at the end is optional.</td>
   </tr>
   <tr>
     <td>10</td>
-    <td>KTHX</td>
+    <td><code>KTHX</code></td>
     <td>It ends a block. Corresponds to a <code>}</code></td>
   </tr>
   <tr>
     <td>11</td>
-    <td>KTHXBAI</td>
+    <td><code>KTHXBAI</code></td>
     <td>This ends a program</td>
   </tr>
   <tr>
     <td>12</td>
-    <td>NOWAI</td>
+    <td><code>NOWAI</code></td>
     <td>This corresponds to <b>else</b></td>
   </tr>
   <tr>
     <td>13</td>
-    <td>PURR &lt;expr&gt;</td>
+    <td><code>PURR &lt;expr&gt;</code></td>
     <td>This prints argument on screen, followed by a newline. It is a wut-only language extension.</td>
   </tr>
   <tr>
     <td>14</td>
-    <td>RELSE</td>
-    <td>This corresponds to <b>if else</b></td>
+    <td><code>RELSE</code></td>
+    <td>This corresponds to <b>if...else</b></td>
   </tr>
   <tr>
     <td>15</td>
-    <td>SHOO</td>
+    <td><code>SHOO</code></td>
     <td>This is another wut-only language extension, that corresponds to goto (the horror!)</td>
   </tr>
   <tr>
     <td>16</td>
-    <td>UP &lt;variable&gt;!!&lt;times&gt;</td>
+    <td><code>UP &lt;variable&gt;!!&lt;times&gt;</code></td>
     <td>This corresponds to variables = variable + times. Here "times" is a wut-only language extension.</td>
   </tr>
   <tr>
     <td>17</td>
-    <td>VISIBLE &lt;expr&gt;</td>
+    <td><code>VISIBLE &lt;expr&gt;</code></td>
     <td>This prints the argument on screen. Note that this does not print a newline.</td>
   </tr>
   <tr>
     <td>18</td>
-    <td>YARLY</td>
+    <td><code>YARLY</code></td>
     <td>This denotes the start of the "true" conditional block</td>
   </tr>
 </table>
